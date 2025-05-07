@@ -5,4 +5,4 @@ updates:
     schedule:
       interval: "monthly"
     labels:
-      "triage-required"
+      - "triage-required"
